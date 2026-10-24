@@ -1,0 +1,3 @@
+[submodule "mapterhorn"]
+	path = mapterhorn
+	url = git@github.com:mapterhorn/mapterhorn.git
